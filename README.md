@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm Currently working as Front End Developer. Leaning towards Full Stack development with Node Js.<br>Looking Forward to Collaborate on Latest Projects That includes Full Stack Development<br>Currently I am Learning React Native for Native mobile applications<br>Fun Fact about me is I love to write 
+I'm Currently working on React Native. 
+Leaning towards Full Stack development with Node Js.
+Exprience in React JS ,Next Js , Django , Node
+Fun Fact about me is I love to write 
 
 
 ## 🌐 Socials:
