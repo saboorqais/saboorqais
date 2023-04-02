@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm Currently working on React Native. 
-Leaning towards Full Stack development with Node Js.
-Exprience in React JS ,Next Js , Django , Node
+I'm Currently working on React Native.<br/>
+Leaning towards Full Stack development with Node Js.<br/>
+Exprience in React JS ,Next Js , Django , Node.<br/>
 Fun Fact about me is I love to write 
 
 
