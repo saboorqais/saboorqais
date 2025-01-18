@@ -1,8 +1,9 @@
 # 💫 About Me:
-I'm Currently working on React Native.<br/>
-Leaning towards Full Stack development with Node Js.<br/>
-Exprience in React JS ,Next Js , Django , Node.<br/>
-Fun Fact about me is I love to write 
+Highly skilled and results-driven Software Developer with expertise in React.js, NEXT JS, and database
+design. Proficient in building tenant-based backends, developing scalable architectures, and designing
+robust infrastructure solutions for modern applications. Adept at crafting innovative, efficient, and
+maintainable code to drive seamless user experiences and ensure system scalability. Eager to bring
+technical expertise and a collaborative mindset to a dynamic team.
 
 
 ## 🌐 Socials:
